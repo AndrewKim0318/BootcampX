@@ -1,0 +1,5 @@
+CREATE TABLE test (
+  id SERIAL PRIMARY KEY NOT NULL,
+);
+
+INSERT INTO test VALUEs (1);
